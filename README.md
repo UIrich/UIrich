@@ -1,5 +1,5 @@
 <h1>✍ About</h1>
-<p>My name is Eduardo Panzeri and I'm a web developer. I currently live in Brazil, in the State of São Paulo. I'm a React enthusiast, but I like to learn some new stuff. I focus my studies on IT at UNIFAFIBE. You can contact me on the networks below.
+<p>My name is <b>Eduardo Panzeri</b> (<i>also known by the codename <b>Ulrich</b></i>) and I'm a web developer. I currently live in <b>Brazil</b>, in the <b>State of São Paulo</b>. I'm a React enthusiast, but I like to learn some new stuff. I focus my studies on <b>IT</b> at <b>UNIFAFIBE</b>. If you need to reach me, you can leave a message on the networks below.
 
 
 <h2>🔍 Connections</h2>
@@ -33,7 +33,7 @@
 </p>
 
 <h2>🌟 Projects</h2>
-<li><a href="https://github.com/UIrich/Ducktors">Ducktors</a></li>
+<li><b><a href="https://github.com/UIrich/Ducktors">Ducktors</a></b></li>
   
 
 <h2>📈 GitHub Stats</h2>
