@@ -1,5 +1,5 @@
 <h1>✍ About</h1>
-<p>My name is Eduardo Panzeri and I'm a web developer. I currently live in Brazil, at the State of São Paulo. I'm a React enthusiast, but I like to learn some new stuff. You can contact me on the networks below.
+<p>My name is Eduardo Panzeri and I'm a web developer. I currently live in Brazil, in the State of São Paulo. I'm a React enthusiast, but I like to learn some new stuff. I focus my studies on IT at UNIFAFIBE. You can contact me on the networks below.
 
 
 <h2>🔍 Connections</h2>
@@ -32,16 +32,19 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<h2>🌟 Projects</h2>
+<li><a href="https://github.com/UIrich/Ducktors">Ducktors</a></li>
+  
 
 <h2>📈 GitHub Stats</h2>
-<a href="https://github.com/UIrich/UIrich">
+<a href="https://github.com/UIrich">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=UIrich&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a><br/>
 
-<a href="https://github.com/UIrich/UIrich">
+<a href="https://github.com/UIrich">
   <img align="center" src="https://streak-stats.demolab.com?user=UIrich&background=1D1F21&dates=FFFFFF&sideNums=2BBC8A&currStreakNum=2BBC8A&currStreakLabel=2BBC8A&fire=2BBC8A&ring=2BBC8A&stroke=FFFFFF&sideLabels=2BBC8A"/>
   </a><br/>
   
- <a href="https://github.com/UIrich/UIrich">
+ <a href="https://github.com/UIrich">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UIrich&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
