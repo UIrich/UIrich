@@ -42,7 +42,7 @@
 
 <h2>🌟 Projects</h2>
 <li><b><a href="https://github.com/UIrich/Ducktors">Ducktors</a></b></li>
-<li><b><a href="https://github.com/gurjonzito/ProjetoOdontoPOO">Meditooth</a></b></li>
+<li><b><a href="https://github.com/gurjonzito/ProjetoOdontoPOO">MediTooth</a></b></li>
   
 
 <h2>📈 GitHub Stats</h2>
